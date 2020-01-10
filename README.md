@@ -1,3 +1,3 @@
 # Assignment
 
-The assign, which to be honest, is somewhat late
+The assignment, which to be honest, is somewhat late.
